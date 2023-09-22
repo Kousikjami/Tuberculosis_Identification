@@ -1,2 +1,3 @@
 # Tuberculosis_Identification
-![Screenshot (127)](https://github.com/Kousikjami/Tuberculosis_Identification/assets/121508643/f8371c39-12fc-42fa-a416-f5d5314b2f99)
+![TB Page](https://github.com/Kousikjami/Tuberculosis_Identification/assets/121508643/02155be3-00b8-4c05-bef4-b085b4e73773)
+
